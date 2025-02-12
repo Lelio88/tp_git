@@ -6,5 +6,6 @@
 </head>
 <body>
    <h1>Mon fichier HTML</h1>
+   <p>Nous sommes le : <?php date(D-M-Y);?></p>
 </body>
 </html>
