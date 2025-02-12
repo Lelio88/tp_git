@@ -7,5 +7,6 @@
 <body>
    <h1>Mon fichier HTML</h1>
    <p>Nous sommes le : <?php date(D-M-Y);?></p>
+   <p>Et je teste git et VSCode</p>
 </body>
 </html>
